@@ -1,0 +1,1 @@
+perl -p -e "s/[ ]+/\t/g;" $1 | perl -p -e "s/^\s+//g;"

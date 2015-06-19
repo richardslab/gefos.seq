@@ -2,6 +2,10 @@
 Thumbs.db
 ehthumbs.db
 
+# Emacs
+*~
+*.*~
+
 # Folder config file
 Desktop.ini
 
@@ -41,3 +45,4 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+README.md~
